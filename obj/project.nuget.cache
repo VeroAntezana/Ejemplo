@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Obukhd4sz//dUjDyfybbX1PF2XI6NhYlqZr329ntFT9uzIOH2fPGHgFqC9+yH9AiWxBUegEK+YRjJfqba/qd3w==",
+  "success": true,
+  "projectFilePath": "D:\\Veronica\\Programacion Grafica\\OpenTk\\Ejemplo\\Ejemplo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Veronica\\.nuget\\packages\\opentk\\4.7.1\\opentk.4.7.1.nupkg.sha512",
+    "C:\\Users\\Veronica\\.nuget\\packages\\opentk.compute\\4.7.1\\opentk.compute.4.7.1.nupkg.sha512",
+    "C:\\Users\\Veronica\\.nuget\\packages\\opentk.core\\4.7.1\\opentk.core.4.7.1.nupkg.sha512",
+    "C:\\Users\\Veronica\\.nuget\\packages\\opentk.graphics\\4.7.1\\opentk.graphics.4.7.1.nupkg.sha512",
+    "C:\\Users\\Veronica\\.nuget\\packages\\opentk.input\\4.7.1\\opentk.input.4.7.1.nupkg.sha512",
+    "C:\\Users\\Veronica\\.nuget\\packages\\opentk.mathematics\\4.7.1\\opentk.mathematics.4.7.1.nupkg.sha512",
+    "C:\\Users\\Veronica\\.nuget\\packages\\opentk.openal\\4.7.1\\opentk.openal.4.7.1.nupkg.sha512",
+    "C:\\Users\\Veronica\\.nuget\\packages\\opentk.redist.glfw\\3.3.0-pre20200830200122\\opentk.redist.glfw.3.3.0-pre20200830200122.nupkg.sha512",
+    "C:\\Users\\Veronica\\.nuget\\packages\\opentk.windowing.common\\4.7.1\\opentk.windowing.common.4.7.1.nupkg.sha512",
+    "C:\\Users\\Veronica\\.nuget\\packages\\opentk.windowing.desktop\\4.7.1\\opentk.windowing.desktop.4.7.1.nupkg.sha512",
+    "C:\\Users\\Veronica\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.7.1\\opentk.windowing.graphicslibraryframework.4.7.1.nupkg.sha512",
+    "C:\\Users\\Veronica\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
