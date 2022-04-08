@@ -362,9 +362,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Veronica\\Programacion Grafica\\OpenTk\\Ejemplo\\Ejemplo.csproj",
-      "projectName": "Ejemplo",
-      "projectPath": "D:\\Veronica\\Programacion Grafica\\OpenTk\\Ejemplo\\Ejemplo.csproj",
+      "projectUniqueName": "D:\\Veronica\\Programacion Grafica\\OpenTk\\Ejemplo\\Grafica.csproj",
+      "projectName": "Grafica",
+      "projectPath": "D:\\Veronica\\Programacion Grafica\\OpenTk\\Ejemplo\\Grafica.csproj",
       "packagesPath": "C:\\Users\\Veronica\\.nuget\\packages\\",
       "outputPath": "D:\\Veronica\\Programacion Grafica\\OpenTk\\Ejemplo\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Obukhd4sz//dUjDyfybbX1PF2XI6NhYlqZr329ntFT9uzIOH2fPGHgFqC9+yH9AiWxBUegEK+YRjJfqba/qd3w==",
+  "dgSpecHash": "l/E7qGQf7+L8R4moBFdcwvI90dCI+W9MvyOghdUINLCNYvF/5sk2TMoWj5lRGzDYuoNlJreQE5yRAUE4H2YW7g==",
   "success": true,
-  "projectFilePath": "D:\\Veronica\\Programacion Grafica\\OpenTk\\Ejemplo\\Ejemplo.csproj",
+  "projectFilePath": "D:\\Veronica\\Programacion Grafica\\OpenTk\\Ejemplo\\Grafica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Veronica\\.nuget\\packages\\opentk\\4.7.1\\opentk.4.7.1.nupkg.sha512",
     "C:\\Users\\Veronica\\.nuget\\packages\\opentk.compute\\4.7.1\\opentk.compute.4.7.1.nupkg.sha512",
