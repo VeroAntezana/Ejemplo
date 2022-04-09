@@ -15,7 +15,7 @@ namespace Grafica
             config.RenderFrequency = 30.0;
             config.UpdateFrequency = 60.0;
             NativeWindowSettings nativo = new NativeWindowSettings();
-            nativo.Size = new Vector2i(800, 600);
+            nativo.Size = new Vector2i(1000, 800);
             nativo.Title = "Programacion Grafica";
             using (Game game = new Game(config, nativo))
             {

@@ -21,12 +21,32 @@ namespace Grafica
             base.OnResize(e);
         }
         float[] vertices = new float[] {
-                0.0f,0.5f,0f,
-                0.5f,-0.5f,0f,
-                -0.5f,-0.5f,0f,
+            
+                0.0f,0.3f,0f,
+                0.3f,-0.3f,0f,
+                -0.3f,-0.3f,0f, //3
+              
+              0.0f,0.3f,0f, //1 
+              0.5f,0.3f,0f,//2 // triangulo 2
+              0.3f,-0.3f,0f,//3
+             
+             0.3f,-0.3f,0f,//1
+             0.5f,0.3f,0f,   //2   //triangulo3
+             0.8f,-0.3f,0f,//3
+
+            -0.3f,-0.3f,0f,//1
+             -0.3f,-0.8f,0f,//2 //triangulo 4
+             0.3f,-0.3f,0f,
+
+
+
+
+
+
             };
         int vao;
         int vbo;
+        
         protected override void OnLoad()
         {
              GL.ClearColor(new Color4(0.3f, 0.3f, 0.2f, 0.2f)); // esto decide el color  
@@ -51,7 +71,27 @@ namespace Grafica
              GL.BindBuffer(BufferTarget.ArrayBuffer, 0);*/
 
 
-           // escenario.addDibujo("cubo", cubito);
+
+            // escenario.addDibujo("cubo", cubito);
+            string vertexShaderCode = @"
+
+            #version 330  core
+            in vec3 aPosition;
+            void main(){
+                gl_Position=vec4(aPosition, 1f);
+             }
+
+
+            ";
+
+            string pixelShaderCode =
+              @"
+               #version 330 core
+                out vec4 pixeColor;
+                void main(){
+                    pixeColor= vec4(0.8,0.8f,0.1f,1f);
+                }
+                ";
             base.OnLoad();
         }
         protected override void OnUnload()
